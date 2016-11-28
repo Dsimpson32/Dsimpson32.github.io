@@ -1,0 +1,111 @@
+.main{
+  font-family: 'Baloo Bhaina', cursive;
+  text-align: center;
+  color: #8ee3ef;
+  background-color: #254E70;
+  margin: -25px;
+
+
+}
+
+#nav1{
+  background-color: #102542;
+  color: #8ee3ef;
+  font-family: 'Baloo Bhaina', cursive;
+  padding: 5px;
+  margin-left: -10px;
+  margin-right: -25px;
+  word-spacing: 17px;
+}
+
+body{
+  background-color: #f8fff4;
+  margin-bottom: 170px;
+}
+
+footer{
+  font-family: 'Baloo Bhaina', cursive;
+  text-align: center;
+  color: #8ee3ef;
+  background-color: #254E70;
+  position: fixed;
+  bottom: 0;
+  padding-right: 1200px;
+  padding-left: 590px;
+  margin-left: -10px;
+
+
+}
+
+#text{
+  font-family: 'Baloo Bhaina', cursive;
+  font-size: 25px;
+  color: #102542;
+}
+
+#text p {
+  text-align: center;
+}
+
+#name{
+  color: #8ee3ef;
+}
+
+#name:hover{
+  font-size: 40px;
+}
+
+ul{
+  background-color: #102542;
+  list-style-type: none;
+  padding-right: 40px;
+  border: solid 10px white;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 50px;
+  color: #8ee3ef;
+
+}
+
+li{
+  border-radius: 40px;
+  border-style: solid white;
+  border: 30px;
+
+}
+
+li:hover{
+  font-size: 40px;
+}
+
+#placeholder{
+  background-color: #102542;
+  font-family: 'Baloo Bhaina', cursive;
+  color: #8ee3ef;
+  text-align: center;
+  border-radius: 50px;
+  border: 10px solid white;
+  padding: 25px 50px 25px 50px;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 40px;
+
+}
+
+img{
+  height: 400px;
+  width: 550px;
+   box-shadow: 10px 10px 10px black;
+   border-radius: 25px 0px 25px 0px;
+}
+/* These are the list items in my text id they were both given an id to be styled seperately */
+#center{
+  text-align: center;
+
+}
+
+#right{
+  text-align: right;
+}
+
+
